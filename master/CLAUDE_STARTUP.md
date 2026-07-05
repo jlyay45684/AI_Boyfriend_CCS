@@ -80,9 +80,10 @@ Never perform another Claude agent's work.
 
 # STEP 8
 
-Read only the files required by your assigned role.
+After completing Steps 1–7,
+request only the additional repository documents required for your assigned role.
 
-Avoid reading unrelated specifications unless necessary.
+Do not assume unavailable documents.
 
 ---
 
